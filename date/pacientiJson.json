@@ -1,0 +1,20 @@
+[
+   {
+      "Varsta": 100,
+      "Nume": "Cristian Toma",
+      "Cod_pacient": 3,
+      "Cod_doctor": 1
+   },
+   {
+      "Varsta": 55,
+      "Nume": "Manafi",
+      "Cod_pacient": 5,
+      "Cod_doctor": 2
+   },
+   {
+      "Varsta": 54,
+      "Nume": "Ion Smeureanu",
+      "Cod_pacient": 2,
+      "Cod_doctor": 3
+   }
+]

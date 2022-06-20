@@ -1,0 +1,22 @@
+[
+  {
+    "cod_doctor": 1,
+    "nume":"Miguel",
+    "cod_sectie": 1
+  },
+  {
+    "cod_doctor": 2,
+    "nume":"Parvulescu",
+    "cod_sectie" : 2
+  },
+  {
+    "cod_doctor": 3,
+    "nume": "Marius",
+    "cod_sectie": 3
+  },
+  {
+    "cod_doctor": 4,
+    "nume":"Marian",
+    "cod_sectie": 2
+  }
+]

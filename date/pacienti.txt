@@ -1,0 +1,5 @@
+1,Cristian Popa,70,2
+2,Ion Smeureanu,54,3
+3,Cristian Toma,100,1
+4,Mirela Mircea,60,2
+5,Manafi,55,2

@@ -1,0 +1,3 @@
+3,Cristian Toma,100,1
+5,Manafi,55,2
+2,Ion Smeureanu,54,3
